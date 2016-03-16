@@ -1,12 +1,6 @@
 command-dd-in-linux
 ===================
 ===================
-<h3 name="top">Mục lục</h3>
-<ol>
-  <li><a href="#intro">Mở đầu và khuyến nghị</a></li>
-  <li><a href="#des"></a></li>
-  <li><a href="#gluster">Mô hình Gluster</a></li>
-</ol>
 
 Mục lục:
 <h3 name="top">Mục lục</h3>
