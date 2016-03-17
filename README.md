@@ -6,27 +6,27 @@ Mục lục:
 			
 - [1. Mở đầu và khuyến nghị](#user-content-1-mở-đầu-và-khuyến-nghị)
 			
-- [2. Khái niệm và ứng dụng của câu lệnh](#user-content-2-kh%C3%A1i-ni%E1%BB%87m-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng-c%E1%BB%A7a-c%C3%A2u-l%E1%BB%87nh)
+- [2. Khái niệm và ứng dụng của câu lệnh](#user-content-2-khái-niệm-và-ứng-dụng-của-lệnh)
 			
-- [3. Cú pháp và các trường tùy chọn](#user-content-3-c%C3%BA-ph%C3%A1p-v%C3%A0-c%C3%A1c-tr%C6%B0%E1%BB%9Dng-t%C3%B9y-ch%E1%BB%8Dn)
+- [3. Cú pháp và các trường tùy chọn](#user-content-3-cú-pháp-và-các-trường-tùy-chọn)
 					
-    - [a. Cú pháp](#user-content-a-c%C3%BA-ph%C3%A1p)
+    - [a. Cú pháp](#user-content-a-cú-pháp)
 					
-    - [b. Các tùy chọn](#user-content-b-c%C3%A1c-t%C3%B9y-ch%E1%BB%8Dn)
+    - [b. Các tùy chọn](#user-content-b-các-tùy-chọn)
 			
-- [4. Các ví dụ trong hay được sử dụng trong thực tế:](#user-content-4-c%C3%A1c-v%C3%AD-d%E1%BB%A5-trong-hay-%C4%91%C6%B0%E1%BB%A3c-s%E1%BB%AD-d%E1%BB%A5ng-trong-th%E1%BB%B1c-t%E1%BA%BF)
+- [4. Các ví dụ trong hay được sử dụng trong thực tế:](#user-content-4-các-ví-dụ-trong-hay-được-sử-dụng-trong-thực-tế)
 					
-    - [a. Sao lưu - phục hồi toàn bộ ổ cứng hoặc phân vùng trong ổ cứng](#user-content-a-sao-l%C6%B0u---ph%E1%BB%A5c-h%E1%BB%93i-to%C3%A0n-b%E1%BB%99-%E1%BB%95-c%E1%BB%A9ng-ho%E1%BA%B7c-ph%C3%A2n-v%C3%B9ng-trong-%E1%BB%95-c%E1%BB%A9ng)
+    - [a. Sao lưu - phục hồi toàn bộ ổ cứng hoặc phân vùng trong ổ cứng](#user-content-a-sao-lưu---phục-hồi-toàn-bộ-ổ-cứng-hoặc-phân-vùng-trong-ổ-cứng)
 					
-    - [b.Sao lưu phục hồi MBR](#user-content-bsao-l%C6%B0u-ph%E1%BB%A5c-h%E1%BB%93i-mbr)
+    - [b.Sao lưu phục hồi MBR](#user-content-bsao-lưu-phục-hồi-mbr)
 					
-    - [c. Chuyển đổi chữ thường thành chữ in hoa](#user-content-c-chuy%E1%BB%83n-%C4%91%E1%BB%95i-ch%E1%BB%AF-th%C6%B0%E1%BB%9Dng-th%C3%A0nh-ch%E1%BB%AF-in-hoa)
+    - [c. Chuyển đổi chữ thường thành chữ in hoa](#user-content-c-chuyển-đổi-chữ-thường-thành-chữ-in-hoa)
 					
-    - [d. Tạo một file có dung lượng cố định](#user-content-d-t%E1%BA%A1o-m%E1%BB%99t-file-c%C3%B3-dung-l%C6%B0%E1%BB%A3ng-c%E1%BB%91-%C4%91%E1%BB%8Bnh)
+    - [d. Tạo một file có dung lượng cố định](#user-content-d-tạ1o-một-file-có-dung-lượng-cố-định)
 			
-- [5. Các tình huống áp dụng trong thực tế](#user-content-5-c%C3%A1c-t%C3%ACnh-hu%E1%BB%91ng-%C3%A1p-d%E1%BB%A5ng-trong-th%E1%BB%B1c-t%E1%BA%BF)
+- [5. Các tình huống áp dụng trong thực tế](#user-content-5-các-tình-huống-áp-dụng-trong-thực-tế)
 			
-- [6. Kết luận](#user-content-6-k%E1%BA%BFt-lu%E1%BA%ADn)
+- [6. Kết luận](#user-content-6-kết-luận)
 
 #### 1. Mở đầu và khuyến nghị
 
