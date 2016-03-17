@@ -6,7 +6,7 @@ Mục lục:
 			
 - [1. Mở đầu và khuyến nghị](#user-content-1-mở-đầu-và-khuyến-nghị)
 			
-- [2. Khái niệm và ứng dụng của câu lệnh](#user-content-2-khái-niệm-và-ứng-dụng-của-lệnh)
+- [2. Khái niệm và ứng dụng của câu lệnh](#user-content-2-khái-niệm-và-ứng-dụng-của-câu-lệnh)
 			
 - [3. Cú pháp và các trường tùy chọn](#user-content-3-cú-pháp-và-các-trường-tùy-chọn)
 					
