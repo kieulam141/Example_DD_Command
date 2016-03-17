@@ -4,7 +4,7 @@ dd_command_in_linux
 Mục lục:
 - [Mục lục](#user-content-dd_command_in_linux)
 			
-- [1. Mo dau](#user-content-1-mo-dau)
+- [1. Mở đầu và khuyến nghị](#user-content-1-mo-dau)
 			
 - [2. Khái niệm và ứng dụng của câu lệnh](#user-content-2-kh%C3%A1i-ni%E1%BB%87m-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng-c%E1%BB%A7a-c%C3%A2u-l%E1%BB%87nh)
 			
@@ -28,7 +28,7 @@ Mục lục:
 			
 - [6. Kết luận](#user-content-6-k%E1%BA%BFt-lu%E1%BA%ADn)
 
-#### 1. Mo dau
+#### 1. Mở đầu và khuyến nghị
 
 Xin chào các bạn. Hôm nay tôi sẽ giới thiệu một command dd trong hệ thống Linux. Để có thể hiểu hết được ý nghĩa của câu lệnh này và các tùy chọn của câu lệnh trước tiên bạn cần phải có kiến thức và cách tổ chức lưu trư dữ liệu trong ô cứng, hiều về các [sector,tracks, Cylinders,..] (https://vn.answers.yahoo.com/question/index?qid=20091115051901AAicdEQ) các thuật ngũ liên quan đến ổ cứng, và kiến thức về [MBR...](https://en.wikipedia.org/wiki/Master_boot_record)
 
