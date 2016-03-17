@@ -4,7 +4,7 @@ dd_command_in_linux
 Mục lục:
 - [Mục lục](#user-content-dd_command_in_linux)
 			
-- [1. Mở đầu và khuyến nghị](#user-content-1-mo-dau)
+- [1. Mở đầu và khuyến nghị](#user-content-1-mở-đầu-và-khuyến-nghị)
 			
 - [2. Khái niệm và ứng dụng của câu lệnh](#user-content-2-kh%C3%A1i-ni%E1%BB%87m-v%C3%A0-%E1%BB%A9ng-d%E1%BB%A5ng-c%E1%BB%A7a-c%C3%A2u-l%E1%BB%87nh)
 			
